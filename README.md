@@ -2,7 +2,7 @@
 
 ## ```Sim ``` folder contains current progress made with ardupilot iris_gimbal model
 
-** Requirements ** :
+**Requirements** :
 
 
 Ardupilot SITL (Software in the loop) and Ardupilot_gazebo plugin for built-in models 
