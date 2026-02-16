@@ -13,3 +13,6 @@ https://medium.com/@sanjana_dev9/how-to-set-up-ardupilot-sitl-with-gazebo-for-dr
 ##  ```Hardware_real ``` folder contains the mirrored progress done in sim to the actual drone 
 
 Navigate to both of these folders and create your own branch when creating new changes to either folder.
+
+
+##  ```Text_Interface``` folder contains the boiler template code for our current interface to work with both sim and real hardware
